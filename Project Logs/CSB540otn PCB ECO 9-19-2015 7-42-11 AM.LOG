@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UH3_7_P Pin=L19-1
+Removed Pin From Net: NetName=UH3_7_N Pin=L19-4
+Removed Pin From Net: NetName=UH4_7_P Pin=L20-1
+Removed Pin From Net: NetName=UH4_7_N Pin=L20-4
+Added Pin To Net: NetName=UH3_7_N Pin=L19-1
+Added Pin To Net: NetName=UH3_7_P Pin=L19-4
+Added Pin To Net: NetName=UH4_7_N Pin=L20-1
+Added Pin To Net: NetName=UH4_7_P Pin=L20-4

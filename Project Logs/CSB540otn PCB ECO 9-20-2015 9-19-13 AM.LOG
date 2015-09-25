@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=U1-P17
+Removed Pin From Net: NetName=VCC3 Pin=U1-T18
+Added Component: Designator=L1(0402L)
+Added Component: Designator=L3(0402L)
+Added Pin To Net: NetName=VCCA Pin=L1-1
+Added Pin To Net: NetName=VCC3 Pin=L1-2
+Added Pin To Net: NetName=GNDA Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-2

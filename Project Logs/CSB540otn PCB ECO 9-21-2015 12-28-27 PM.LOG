@@ -1,0 +1,3 @@
+Added Component: Designator=C49(0402C)
+Added Pin To Net: NetName=VDDS Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2

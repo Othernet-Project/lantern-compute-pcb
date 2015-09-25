@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\csb5xx\csb540otn_p2\CSB540otn.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=csb540otn-roundholes.txt|DrillLayers=gtl,gp1,g2,gp4,gp2,g3,gp3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=csb540otn-slotholes.txt|DrillLayers=gtl,gp1,g2,gp4,gp2,g3,gp3,gbl

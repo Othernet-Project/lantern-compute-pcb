@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=U3 Old DesignItemId=AP2151, SOT-23-5 New DesignItemId=AP2141, SOT-23-5
+Change Component DesignItemId : Designator=U21 Old DesignItemId=AP2151, SOT-23-5 New DesignItemId=AP2141, SOT-23-5
+Change Component DesignItemId : Designator=U26 Old DesignItemId=AP2151, SOT-23-5 New DesignItemId=AP2141, SOT-23-5
+Change Component Comment : Designator=U26 Old Comment=AP2151, SOT-23-5 New Comment=AP2141, SOT-23-5
+Change Component Comment : Designator=U3 Old Comment=AP2151, SOT-25-5 New Comment=AP2141, SOT-25-5
+Change Component Comment : Designator=U21 Old Comment=AP4151, SOT-43-5 New Comment=AP2141, SOT-43-5
+Change Component Description : Designator=U3 Old Description=IC - POWER SWITCH, 500MA, HIGH TRUE New Description=IC - POWER SWITCH, 500MA, LOW TRUE
+Change Component Description : Designator=U21 Old Description=IC - POWER SWITCH, 500MA, HIGH TRUE New Description=IC - POWER SWITCH, 500MA, LOW TRUE
+Change Component Description : Designator=U26 Old Description=IC - POWER SWITCH, 500MA, HIGH TRUE New Description=IC - POWER SWITCH, 500MA, LOW TRUE
+Added Pin To Net: NetName=CFG15 Pin=U3-4
+Added Pin To Net: NetName=*USB_PE2 Pin=U26-4
+Change Net Name : Old Net Name=USB_PE0 New Net Name=USB_PE0*

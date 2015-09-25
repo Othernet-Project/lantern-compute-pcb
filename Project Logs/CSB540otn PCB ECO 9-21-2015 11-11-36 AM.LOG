@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GNDA Pin=C142-2
+Removed Pin From Net: NetName=VCC3 Pin=L1-2
+Removed Pin From Net: NetName=GNDA Pin=L3-1
+Removed Pin From Net: NetName=GND Pin=L3-2
+Removed Pin From Net: NetName=GNDA Pin=U1-A9
+Added Pin To Net: NetName=GNDADC Pin=U1-A9
+Added Pin To Net: NetName=VCCADC Pin=U1-B9

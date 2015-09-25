@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CD_9_N Pin=L12-1
+Removed Pin From Net: NetName=DD_N Pin=L12-2
+Removed Pin From Net: NetName=DD_P Pin=L12-3
+Removed Pin From Net: NetName=CD_9_P Pin=L12-4
+Added Pin To Net: NetName=CD_9_P Pin=L12-1
+Added Pin To Net: NetName=DD_P Pin=L12-2
+Added Pin To Net: NetName=DD_N Pin=L12-3
+Added Pin To Net: NetName=CD_9_N Pin=L12-4

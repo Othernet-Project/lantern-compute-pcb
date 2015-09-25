@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MVREF Pin=C141-1
+Added Pin To Net: NetName=VCCM Pin=C141-1

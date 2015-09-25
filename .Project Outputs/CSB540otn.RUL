@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: D:\csb5xx\csb540otn_p2\CSB540otn.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=-78.74
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_4|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width_3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_2|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.00

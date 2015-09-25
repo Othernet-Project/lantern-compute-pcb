@@ -1,0 +1,6 @@
+Added Component: Designator=C30(0402C)
+Added Component: Designator=C31(0402C)
+Added Pin To Net: NetName=VCCM Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCCM Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2

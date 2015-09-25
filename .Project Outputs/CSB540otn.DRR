@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CSB540otn.PcbDoc   9/25/2015  10:40:36 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CSB540otn-RoundHoles.TXT
+ASCII SlotHoles File : CSB540otn-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          802              71.37 Inch (1812.71 mm)
+T2        9.84mil (0.24994mm)      Round          25               0.96 Inch (24.46 mm)
+T3        19.68mil (0.49987mm)     Slot           2                0.58 Inch (14.64 mm)
+T4        29.53mil (0.75006mm)     Round          7                0.47 Inch (12.00 mm)
+T5        31.5mil (0.8001mm)       Round          22               2.28 Inch (58.00 mm)
+T6        31.5mil (0.8001mm)       Slot           4                5.97 Inch (151.76 mm)
+T7        35.43mil (0.89992mm)     Round          22               5.16 Inch (131.10 mm)
+T8        39.37mil (1mm)           Slot           8                9.47 Inch (240.55 mm)
+T9        40mil (1.016mm)          Round          34               8.14 Inch (206.87 mm)
+T10       49.21mil (1.24993mm)     Round          4                2.12 Inch (53.77 mm)
+T11       62.99mil (1.59995mm)     Round          2                0.62 Inch (15.63 mm)
+T12       108.27mil (2.75006mm)    Round          4         NPTH   6.83 Inch (173.50 mm)
+T13       127.95mil (3.24993mm)    Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            938              114.43 Inch (2906.42 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,9 @@
+Added Component: Designator=D11(LED_1X3_SIDE-RED)
+Added Component: Designator=R6(0402R)
+Added Pin To Net: NetName=VCC3 Pin=R6-1
+Added Pin To Net: NetName=*STG_LED Pin=D11-3
+Added Pin To Net: NetName=*STG_LED Pin=U1-V6
+Added Net: Name=*STG_LED
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R6-2
+Added Net: Name=NetD11_1

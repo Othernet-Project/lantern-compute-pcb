@@ -1,0 +1,5 @@
+Added Component: Designator=L19(PANASONIC_EXC24C)
+Added Pin To Net: NetName=UH5_7_N Pin=L19-1
+Added Pin To Net: NetName=U5_7_N Pin=L19-2
+Added Pin To Net: NetName=U5_7_P Pin=L19-3
+Added Pin To Net: NetName=UH5_7_P Pin=L19-4

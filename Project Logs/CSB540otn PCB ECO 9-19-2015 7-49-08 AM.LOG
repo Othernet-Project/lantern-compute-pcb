@@ -1,0 +1,9 @@
+Added Component: Designator=U12(MICROpack10)
+Added Pin To Net: NetName=D_9_N Pin=U12-2
+Added Pin To Net: NetName=D_9_P Pin=U12-3
+Added Pin To Net: NetName=NetR63_2 Pin=U12-5
+Added Pin To Net: NetName=GND Pin=U12-6
+Added Pin To Net: NetName=DD_P Pin=U12-7
+Added Pin To Net: NetName=DD_N Pin=U12-8
+Added Pin To Net: NetName=UD_VIN Pin=U12-9
+Added Pin To Net: NetName=UD_CHG_9 Pin=U12-10

@@ -1,0 +1,6 @@
+Added Component: Designator=C52(0402C)
+Added Component: Designator=C53(0402C)
+Added Pin To Net: NetName=VCC3 Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=VCC3 Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ODT_2 Pin=TP1-21
+Removed Pin From Net: NetName=*MCAS_2 Pin=TP1-22
+Added Pin To Net: NetName=*MCAS_2 Pin=TP1-21
+Added Pin To Net: NetName=ODT_2 Pin=TP1-22

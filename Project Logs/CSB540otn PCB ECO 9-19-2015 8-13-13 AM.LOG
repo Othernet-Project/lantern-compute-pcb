@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=UH3_7_N Pin=L19-1
+Removed Pin From Net: NetName=UH3_7_P Pin=L19-4
+Removed Pin From Net: NetName=UH4_7_N Pin=L20-1
+Removed Pin From Net: NetName=UH4_7_P Pin=L20-4
+Removed Pin From Net: NetName=*OC_H3_7 Pin=U3-3
+Removed Pin From Net: NetName=*OC_H2_7 Pin=U21-3
+Removed Pin From Net: NetName=*OC_H4_7 Pin=U26-3
+Change Component Comment : Designator=U3 Old Comment=AP2151, SOT-23-5 New Comment=AP2151, SOT-25-5
+Change Component Comment : Designator=U21 Old Comment=AP2151, SOT-23-5 New Comment=AP4151, SOT-43-5
+Added Pin To Net: NetName=UH4_7_N Pin=L8-1
+Added Pin To Net: NetName=UH4_7_P Pin=L8-4
+Added Pin To Net: NetName=UH3_7_N Pin=L20-1
+Added Pin To Net: NetName=UH3_7_P Pin=L20-4
+Added Pin To Net: NetName=*OC_H5_7 Pin=U3-3
+Added Pin To Net: NetName=*OC_H4_7 Pin=U21-3
+Added Pin To Net: NetName=*OC_H3_7 Pin=U26-3
+Change Net Name : Old Net Name=U2_7_N New Net Name=U4_7_N
+Change Net Name : Old Net Name=U2_7_P New Net Name=U4_7_P
+Change Net Name : Old Net Name=U3_7_N New Net Name=U5_7_N
+Change Net Name : Old Net Name=U3_7_P New Net Name=U5_7_P
+Change Net Name : Old Net Name=U4_7_N New Net Name=U3_7_N
+Change Net Name : Old Net Name=U4_7_P New Net Name=U3_7_P
+Added Pin To Net: NetName=UH2_N Pin=U25-1
+Added Net: Name=UH2_N
+Added Pin To Net: NetName=UH2_P Pin=U25-2
+Added Net: Name=UH2_P
+Added Pin To Net: NetName=UH5_7_N Pin=L19-1
+Added Net: Name=UH5_7_N
+Added Pin To Net: NetName=UH5_7_P Pin=L19-4
+Added Net: Name=UH5_7_P
+Added Differential Pair: Name=U5_7
+Added Differential Pair: Name=UH2

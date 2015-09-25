@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=CFG9 New Net Name=CFG9_4
+Change Net Name : Old Net Name=CFG10 New Net Name=CFG10_4
+Added Pin To Net: NetName=*USB_PE0 Pin=U1-D12
+Added Pin To Net: NetName=*USB_PE0 Pin=U21-4
+Added Net: Name=*USB_PE0
+Added Pin To Net: NetName=*USB_PE1 Pin=U1-C12
+Added Pin To Net: NetName=*USB_PE1 Pin=U3-4
+Added Net: Name=*USB_PE1
+Added Pin To Net: NetName=CFG14_4 Pin=RN9-3
+Added Pin To Net: NetName=CFG14_4 Pin=U1-V4
+Added Net: Name=CFG14_4
+Added Pin To Net: NetName=CFG15_4 Pin=RN9-4
+Added Pin To Net: NetName=CFG15_4 Pin=U1-T5
+Added Net: Name=CFG15_4

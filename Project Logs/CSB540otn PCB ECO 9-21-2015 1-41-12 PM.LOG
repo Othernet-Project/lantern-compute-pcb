@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=D17 Old DesignItemId=LED_1X3_SIDE-BLUE New DesignItemId=LED_1X3_SIDE-WHITE
+Change Component Footprint: Designator=D17 Old Footprint=LED_1X3_SIDE-BLUE New Footprint=LED_1X3_SIDE-WHITE
+Change Component Comment : Designator=D17 Old Comment=LED_1X3_SIDE-BLUE New Comment=LED_1X3_SIDE-WHITE

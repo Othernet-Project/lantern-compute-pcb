@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=UH2_P Pin=U23-3
+Added Pin To Net: NetName=UH2_N Pin=U23-4
+Added Differential Pair: Name=U4_7
